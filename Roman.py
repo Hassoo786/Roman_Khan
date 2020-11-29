@@ -271,7 +271,7 @@ def pilih_login():
 def Zeek():
     os.system('clear')
     print logo1
-    print '\x1b[1;91m[1]  START CLONING With SOMI'
+    print '\x1b[1;91m[1]  START CLONING With ROMAN'
     time.sleep(0.10)
     print '\x1b[1;92m[2] ROMAN FB ACCOUNT'
     time.sleep(0.10)
